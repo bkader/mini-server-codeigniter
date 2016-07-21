@@ -1,0 +1,18 @@
+## tmp folder files
+tmp/*
+!tmp/index.html
+!tmp/.htaccess
+
+## cache files
+root/cache/*
+!root/cache/index.html
+!root/cache/.htaccess
+
+## log files
+root/logs/*
+!root/logs/index.html
+!root/logs/.htaccess
+
+## sublime text files
+*.sublime-project
+*.sublime-workspace
